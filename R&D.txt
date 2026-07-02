@@ -1,1 +1,0 @@
-What in convolution helps to identify single object from an image 

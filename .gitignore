@@ -1,8 +1,0 @@
-.venv/
-.venv312/
-__pycache__/
-*.pyc
-.ipynb_checkpoints/
-.pytest_cache/
-.mypy_cache/
-*.log

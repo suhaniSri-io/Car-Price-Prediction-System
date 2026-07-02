@@ -1,0 +1,30 @@
+
+                              DAY-1
+~ Fragments are used instead of div for memory optimization
+
+~ GANs - Generative Adversial Network
+
+~AI Agents, Regression
+
+~ What is AI and ML, Use of AI, Gen AI
+Gen AI Engineer, AI Engineer 
+Gen AI-->RAG
+      -->Multimodal AI
+      -->AI Agents
+      -->Transformer
+
+~Timeline for AI
+1950 - Alan Tuning - Can machine think?
+1960 - Emerging of Rule -based system
+1997- Deep learning
+2011 - AI Siri
+2017 - Transformers
+
+~ Specialize your resume-
+Name in header - Mail , Mob , LinkedIn
+Professional Objective
+Skills - lang , Libraries & Frameworks, tool & tech- git , GitHub , netlify , render and others - interpersonal, leadership , teamwork , critical thinking
+Projects- CNN - Face recognization system/Car Detection system , GenAI , Agents, multi-model
+Internship
+Education
+
